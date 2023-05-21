@@ -10,7 +10,7 @@ I'm Mahmoud Refat an Flutter Mobile Developer .
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I'm currently looking for an opportunity at Flutter Mobile Devlopment .
+- 🔭 I'm currently looking for an opportunity as Native Android Devloper .
 - 🤔 I’m looking for help with new App Ideas.
 - 📫 How to reach me: mahhmoudrefat@outlook.com.
 - 😄 Pronouns: Mahmoud Refat , Mahmoud Ewais .
