@@ -6,10 +6,9 @@ I'm Mahmoud Refat an Native Android Devloper .
 
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahhmoudrefat/) [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahhmoudrefat@gmail.com) 
  [![outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mahhmoudrefat@outlook.com)
- [![stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/11389892/mahmoud-refaat)
  [![behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=whit)](https://www.behance.net/mahhmoudrefat)
  [![Codeforces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mahhmoudrefat)
-
+[![stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/11389892/mahmoud-refaat)
 <!-- TODO: Add last video link -->
 
 - 🔭 I'm currently looking for an opportunity as Native Android Devloper .
@@ -23,8 +22,6 @@ I'm Mahmoud Refat an Native Android Devloper .
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-4285F4?style=for-the-badge&labelColor=black&logo=flutter&logoColor=4285F4)](#) [![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) [![C++ Badge](https://img.shields.io/badge/-c++-044F88?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=044F88)](#) [![windows10 Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#) [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit)](#) 
 
-
-<br />
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/MahhmoudRefat/MahhmoudRefat/blob/master/Mahmoud%20Refaat%20-%20Android%20Developer%20Cv%20.pdf)
