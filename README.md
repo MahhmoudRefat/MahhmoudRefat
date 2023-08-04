@@ -22,8 +22,7 @@ I'm Mahmoud Refat an Native Android Devloper .
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](#) [![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-4285F4?style=for-the-badge&labelColor=black&logo=flutter&logoColor=4285F4)](#) [![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) [![C++ Badge](https://img.shields.io/badge/-c++-044F88?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=044F88)](#) [![windows10 Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#) [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit)](#) 
 
-س
-تةگك
+
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/MahhmoudRefat/MahhmoudRefat/blob/master/Mahmoud%20Refaat%20-%20Android%20Developer%20Cv%20.pdf)
