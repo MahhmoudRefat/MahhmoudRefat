@@ -37,7 +37,6 @@ I'm Mahmoud Refat an Native Android Devloper .
 
 
 
-
 <details>
 <summary>
   More stuff about me
