@@ -2,7 +2,6 @@
 
 I'm Mahmoud Refat an Native Android Devloper . 
 
-
 :mailbox: Reach me out!
 
 
