@@ -19,7 +19,6 @@ I'm Mahmoud Refat an Native Android Devloper .
 - ⚡ Fun fact: I play Tennis and Reading Books very often.
 
 
-
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
